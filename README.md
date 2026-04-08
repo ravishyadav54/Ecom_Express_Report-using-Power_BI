@@ -7,7 +7,8 @@ Overview
 This project presents a data-driven analysis of an e-commerce business, focusing on revenue performance and order cancellations.
 The dashboard is designed to quickly highlight what’s driving revenue and where losses occur.
 
-What It Shows
+What It Shows:
+
 -Revenue breakdown by products, categories, and regions
 
 -Cancellation patterns across categories and locations
@@ -18,7 +19,7 @@ What It Shows
 
 -Geographic view of sales distribution
 
-Key Highlights
+Key Highlights:
 
 -High revenue concentration in Laptops & Mobile categories
 
